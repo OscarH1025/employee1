@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/OscarH1025/employeetracke"
+    "url": "git+https://github.com/OscarH1025/employee1"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/OscarH1025/employeetracke"
+    "url": "https://github.com/OscarH1025/employee1"
   },
-  "homepage": "https://github.com/OscarH1025/employeetracke",
+  "homepage": "https://github.com/OscarH1025/employee1",
   "dependencies": {
     "console.table": "^0.10.0",
     "inquirer": "^8.2.4",
